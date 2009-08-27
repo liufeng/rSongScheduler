@@ -1,0 +1,5 @@
+== rSongScheduler ==
+
+rSongScheduler is the Ruby version of SongScheduler, a song list automatically generating and managing software written in Java (http://groups.google.com/group/comp-3350-team-5). rSongScheduler rewrite SongScheduler in Ruby and substitute the Java Swing GUI to a web interface. It also uses database instead of hashing the data on disk.
+
+SongScheduler is the term project of team 5 for the Software Engineering Course(COMP 3350) in Summer Session 2009 at the University of Manitoba.

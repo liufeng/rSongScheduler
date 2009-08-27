@@ -1,0 +1,7 @@
+* Create the basic facilities
+ -Song class
+ -Schedule class
+ -SongScheduler methods
+
+* Test Cases
+ # hopefully rSongScheduler is applying TDD. But I'm still learning unit test in Ruby.
